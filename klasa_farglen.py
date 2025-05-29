@@ -160,3 +160,4 @@ class M_oakhaven(M_farglen):
         self.populacja = 800
         self.sklepy = ["kowal","czarny_rynek"]
         self.zadania = []
+
